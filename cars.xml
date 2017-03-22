@@ -1,20 +1,14 @@
 <cars>
 <car>
-<make>Ford</make>
-<model>Focus</model>
-<price>20000</price>
+<make>Ford Focus</make>
 <photo>focus.jpg</photo>
 </car>
 <car>
-<make>Ford</make>
-<model>Mustang</model>
-<price>50000</price>
+<make>Ford Mustang</make>
 <photo>mustang.jpg</photo>
 </car>
 <car>
-<make>BMW</make>
-<model>X5</model>
-<price>65000</price>
+<make>BMW X5</make>
 <photo>x5.jpg</photo>
 </car>
 </cars>
